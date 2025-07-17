@@ -14,3 +14,7 @@ This case study analyzes a dataset of Amazon products, primarily focusing on cab
 The Primary Data Source is given by Incubator Hub.
 
 ### Tools Used
+
+- Ms Excel for data cleaning [Download here] ( https://1drv.ms/x/c/22d917018b5d0a12/ERP89DS1t7lCrTIVZqOB02MBpbl4v9DxnEhZWLBTVARsfQ?e=2hgwVE )
+- Pivot Table
+- Ms Excel (Presentation)
