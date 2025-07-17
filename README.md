@@ -8,3 +8,9 @@ I have learnt quite a number of things from Excal to SQL to Power bi and now to 
 ### Project Overview
 
 This case study analyzes a dataset of Amazon products, primarily focusing on cables and accessories, along with some smart TVs and networking devices. The data includes product details, pricing, ratings, reviews, and customer feedback.
+
+### Data Source
+
+The Primary Data Source is given by Incubator Hub.
+
+### Tools Used
